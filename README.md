@@ -17,10 +17,8 @@ station for rebooking.
 ---
 
 
----
-
 ## 👥 Author
 
-*   **👩‍💻 Fiza Pathan** (22000986) - Project Developer
+*   **👩‍💻 Fiza Pathan** (22000986)
 *   **🎓 Program:** Bachelor of Technology (CSE), Semester 5, Autumn 2025  
 *   **🏫 University:** Navrachana University, Vadodara
